@@ -1,7 +1,7 @@
 {
   "city": "Reggio Calabria",
   "domain": "carroattrezzireggiocalabria24h.it",
-  "brand": "STRETTO / SOCCORSO",
+  "brand": "Stretto Soccorso",
   "phone": null,
   "address": null,
   "email": "assistenza@carroattrezzireggiocalabria24h.it",
@@ -14,5 +14,12 @@
     "Montebello Ionico"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "coast"
+  "theme": "coast",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Due rive curve formano una S aperta; composizione compatta e lettering morbido.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
