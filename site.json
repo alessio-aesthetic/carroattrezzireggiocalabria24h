@@ -1,0 +1,18 @@
+{
+  "city": "Reggio Calabria",
+  "domain": "carroattrezzireggiocalabria24h.it",
+  "brand": "STRETTO / SOCCORSO",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@carroattrezzireggiocalabria24h.it",
+  "nearby": [
+    "Villa San Giovanni",
+    "Campo Calabro",
+    "Fiumara",
+    "Scilla",
+    "Motta San Giovanni",
+    "Montebello Ionico"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "coast"
+}
